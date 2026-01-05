@@ -3,7 +3,7 @@
 |                |       |
 | -------------- | ----- |
 | 📧 **Email**   | [acid.vegas@acid.vegas](mailto:acid.vegas@acid.vegas) |
-| 💻 **IRC**     | [irc.supernets.org](irc://irc.supernets.org/superbowl) *(preferred method of contact)*|
+| 💻 **IRC**     | [irc.supernets.org](https://webchat.supernets.org) *(preferred method of contact)*|
 | 🔒 **XMPP**    | [acidvegas@xmpp.supernets.org](xmpp:acidvegas@xmpp.supernets.org) |
 | 🐦 **Twitter** | [@acidvegas](https://x.com/acidvegas) |
 | 💵 **Support** | [GitHub Sponsors](https://github.com/sponsors/acidvegas) 🩷 |
